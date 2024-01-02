@@ -1,0 +1,6 @@
+requests==2.31.0
+tqdm==4.48.2
+bs4
+beautifulsoup4==4.9.1
+lxml
+pillow==9.2.0
